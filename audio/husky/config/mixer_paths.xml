@@ -77,10 +77,10 @@
     <ctl name="R DRE DRE Switch" value="1"/>
 
     <!-- Cirrus Booster Amp Output Gain -->
-    <ctl name="AMP PCM Gain" value="17"/>
-    <ctl name="R AMP PCM Gain" value="17"/>
-    <ctl name="Digital PCM Volume" value="817"/>
-    <ctl name="R Digital PCM Volume" value="817"/>
+    <ctl name="AMP PCM Gain" value="20"/>
+    <ctl name="R AMP PCM Gain" value="20"/>
+    <ctl name="Digital PCM Volume" value="870"/>
+    <ctl name="R Digital PCM Volume" value="870"/>
 
     <!-- Cirrus Booster Amp Power -->
     <ctl name="Main AMP Enable Switch" value="0"/>
@@ -694,8 +694,8 @@
     </path>
 
     <path name="voice-speaker">
-        <ctl name="R Boost Peak Current Limit" value="3.50A"/>
-        <ctl name="Boost Peak Current Limit" value="3.50A"/>
+        <ctl name="R Boost Peak Current Limit" value="3.90A"/>
+        <ctl name="Boost Peak Current Limit" value="3.90A"/>
         <ctl name="ASPTX1 Slot Position" value="1"/>
         <ctl name="R ASPTX1 Slot Position" value="0"/>
     <!--<ctl name="R DSP RX2 Source" value="ASPRX2"/>-->
